@@ -8,7 +8,7 @@ import Sidebar from "./Sidebar";
 
 import "./style.css";
 
-const server = "http://localhost:5000";
+const server = "white-board-backend-production.up.railway.app";
 const connectionOptions = {
   "force new connection": true,
   reconnectionAttempts: "Infinity",
